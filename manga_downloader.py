@@ -6,7 +6,7 @@ import os
 import sys
 from bs4 import BeautifulSoup
 
-http = 'http:'
+http = 'https:'
 
 def get_chapter_num(chapterNum):
     if chapterNum < 10:
